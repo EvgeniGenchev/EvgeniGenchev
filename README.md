@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hello there🔭
+If you don't answer 'Kenobi', I am not the developer you are looking for :wave: 
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=EvgeniGenchev&show_icons=true&theme=radical)
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
 
 <!--
 **EvgeniGenchev/EvgeniGenchev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
