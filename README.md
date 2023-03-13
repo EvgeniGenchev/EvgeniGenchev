@@ -1,9 +1,14 @@
-# Hello there :raised_hand:
-If you don't answer 'Kenobi', I am not the developer you are looking for :wave: 
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hello,+there! This is Evgeni" align="middle">
+<hr>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=EvgeniGenchev&show_icons=true&theme=radical)
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+<p align="center"> If you don't answer 'Kenobi', I am not the developer you are looking for :wave: </p> 
 
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=EvgeniGenchev&show_icons=true&theme=radical">
+    <br>
+    <img src="https://readme-jokes.vercel.app/api?theme=radical">
+</p> <br>
 
 
 <!--
