@@ -1,14 +1,35 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hello,+there! This is Evgeni" align="middle">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=false&vCenter=true&width=940&height=50&lines=Hello,+there!" align="middle">
 <hr>
 
-<p align="center"> If you don't answer 'Kenobi', I am not the developer you are looking for :wave: </p> 
+If you don't answer 'Kenobi', I am not the developer you are looking for :wave:
+
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/EvgeniGenchev">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=EvgeniGenchev&show_icons=true&line_height=27&count_private=true&title_color=gray&icon_color=darkgreay&bg_color=FFFFFF"/>
+</a>
+
+<br>
+<br>
 
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=EvgeniGenchev&show_icons=true&theme=radical">
-    <br>
-    <img src="https://readme-jokes.vercel.app/api?theme=radical">
-</p> <br>
+## 💼 Skills
+
+<div>
+  <h2> <strong> What I am learning </strong></h2>
+  <img src="https://skillicons.dev/icons?i=lua,nim,docker,rabbitmq" alt="skills actively learning logos"> <br> 
+  <h2> <strong> What I know </strong></h2>
+  <img src="https://skillicons.dev/icons?i=fastapi,md,mongodb,git,raspberrypi,github,django,neovim,tensorflow,py,arduino,bash,c,cpp,linux,html,css" alt="skills planning to learn logos">
+</div>
+
+
+## 📌 Pinned Repositories
+<a href="https://github.com/EvgeniGenchev/comment-nvim">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=EvgeniGenchev&repo=comment-nvim" />
+</a>
+
 
 
 <!--
