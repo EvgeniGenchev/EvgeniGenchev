@@ -19,7 +19,7 @@ If you don't answer 'Kenobi', I am not the developer you are looking for :wave:
 
 <div>
   <h2> <strong> What I am learning </strong></h2>
-  <img src="https://skillicons.dev/icons?i=lua,nim,docker,rabbitmq" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=lua,nim,docker,rabbitmq,zig" alt="skills actively learning logos"> <br> 
   <h2> <strong> What I know </strong></h2>
   <img src="https://skillicons.dev/icons?i=fastapi,md,mongodb,git,raspberrypi,github,django,neovim,tensorflow,py,arduino,bash,c,cpp,linux,html,css" alt="skills planning to learn logos">
 </div>
