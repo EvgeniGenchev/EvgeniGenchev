@@ -30,7 +30,8 @@ If you don't answer 'Kenobi', I am not the developer you are looking for :wave:
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=EvgeniGenchev&repo=comment-nvim" />
 </a>
 
-
+## What I was last listening to
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21ydtojv4lf46qsc6bqar47yq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 **EvgeniGenchev/EvgeniGenchev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
